@@ -7,7 +7,9 @@
     "hono": "^4.5.0"
   },
   "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
     "@types/bun": "latest",
+    "eslint": "^8"
   }
 }
 
